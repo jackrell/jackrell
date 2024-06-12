@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackrell
-- 👀 I’m interested in AI, ML, and DL business applications
+- 👀 I’m interested in AI and business applications
 - 🎮 Hobbies: technology, music, books, football
 - 🌱 I’m currently studying Computer Science at the University of Notre Dame
 - 📫 How to reach me: jrelling@nd.edu (school) or rellingerjack@gmail.com (personal)
